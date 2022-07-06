@@ -20,6 +20,7 @@ This sample includes:
 * template-configuration.json - this file contains the project ARN with placeholders used for tagging resources with the project ID
 
 Getting Started
+Hello Banglore
 ---------------
 
 These directions assume you want to develop on your development environment or a Cloud9 environment.
